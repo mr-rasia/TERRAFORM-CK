@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Sensitive
+*.pem
+
+# Logs
+*.log
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.pem.terraform/
